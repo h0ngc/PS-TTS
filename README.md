@@ -146,14 +146,6 @@ https://github.com/user-attachments/assets/2cdbe09c-4847-4626-b8e4-70509b539ddd
   </div>
 </div>
 <h4 style="text-align: center; font-size: 24px;">Korean-to-Englis Dubbing</h4>
-https://github.com/user-attachments/assets/49190d80-e281-4332-9446-e328a2fbaefe
-
-
-https://github.com/user-attachments/assets/b669adfc-1e24-4502-8435-f2216f04fc1c
-
-
-
-https://github.com/user-attachments/assets/2cdbe09c-4847-4626-b8e4-70509b539ddd
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; margin-right: 10px; text-align: center; max-width: 45%;">
     <video width="100%" controls>
