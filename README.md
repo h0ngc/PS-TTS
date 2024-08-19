@@ -112,7 +112,11 @@ Additionally, replace the input files with those matching the correct paths to p
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; margin-right: 10px; text-align: center; max-width: 45%;">
     <video width="100%" controls>
-      <source src="./samples/men_eg_sample.mp4" type="video/mp4">
+      <source src="./samples/men_eg_sa
+
+https://github.com/user-attachments/assets/8e7236a5-a8a2-4491-ba61-5d6de31a5169
+
+mple.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
@@ -164,7 +168,11 @@ Additionally, replace the input files with those matching the correct paths to p
   </div>
   <div style="flex: 1; text-align: center; max-width: 45%;">
     <video width="100%" controls>
-      <source src="./samples/men2_kr_eg.mp4" type="video/mp4">
+      <source src="./samples/men2_kr_eg.mp4
+
+Uploading women_eg_sample.mp4…
+
+" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
