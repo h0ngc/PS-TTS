@@ -108,17 +108,10 @@ Additionally, replace the input files with those matching the correct paths to p
 
 ## 🎓 Dubbing Sample with Lip-Reading Datasets
 
-<h4 style="text-align: center; font-size: 24px;">English-to-Korean Dubbing</h4>
+<h4 style="text-align: center; font-size: 24px;">English and Korean dubbing</h4>
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; margin-right: 10px; text-align: center; max-width: 45%;">
-    <video width="100%" controls>
-      <source src="./samples/men_eg_sa
-
-https://github.com/user-attachments/assets/8e7236a5-a8a2-4491-ba61-5d6de31a5169
-
-mple.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
+<img width="80%" src="https://user-images.githubusercontent.com/16822641/109461495-913fc480-7aa5-11eb-9d0e-aff762669f98.gif"/>
   </div>
   <div style="flex: 1; text-align: center; max-width: 45%;">
     <video width="100%" controls>
@@ -144,7 +137,11 @@ mple.mp4" type="video/mp4">
 
 
 
-<h4 style="text-align: center; font-size: 24px;">Korean-to-English Dubbing</h4>
+https://github.com/user-attachments/assets/fa6ea2dc-d4f5-4a54-b529-ee632f2caf3c
+
+
+
+
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; margin-right: 10px; text-align: center; max-width: 45%;">
     <video width="100%" controls>
