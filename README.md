@@ -178,10 +178,26 @@ https://github.com/user-attachments/assets/2cdbe09c-4847-4626-b8e4-70509b539ddd
   <div style="flex: 1; text-align: center; max-width: 45%;">
     <video width="100%" controls>
       <source src="./samples/men2_kr_eg.mp4
-
-
 " type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
 </div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/49190d80-e281-4332-9446-e328a2fbaefe" alt="Video 1" width="300"/>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/b669adfc-1e24-4502-8435-f2216f04fc1c" alt="Video 2" width="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/2cdbe09c-4847-4626-b8e4-70509b539ddd" alt="Video 3" width="300"/>
+    </td>
+    <td>
+      <!-- You can add another image or keep this cell empty -->
+    </td>
+  </tr>
+</table>
