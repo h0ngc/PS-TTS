@@ -108,12 +108,24 @@ Additionally, replace the input files with those matching the correct paths to p
 
 ## 🎓 Dubbing Sample with Lip-Reading Datasets
 
-<h4 style="text-align: center; font-size: 24px;">English and Korean dubbing</h4>
+<h4 style="text-align: center; font-size: 24px;">English-to-Korean Dubbing</h4>
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; margin-right: 10px; text-align: center; max-width: 45%;">
   </div>
   <div style="flex: 1; text-align: center; max-width: 45%;">
     <video width="100%" controls>
+
+https://github.com/user-attachments/assets/49190d80-e281-4332-9446-e328a2fbaefe
+
+
+https://github.com/user-attachments/assets/b669adfc-1e24-4502-8435-f2216f04fc1c
+
+
+
+https://github.com/user-attachments/assets/2cdbe09c-4847-4626-b8e4-70509b539ddd
+
+
+
       <source src="https://github.com/user-attachments/assets/fa6ea2dc-d4f5-4a54-b529-ee632f2caf3c" type="video/mp4">
       Your browser does not support the video tag.
     </video>
@@ -133,7 +145,15 @@ Additionally, replace the input files with those matching the correct paths to p
     </video>
   </div>
 </div>
+<h4 style="text-align: center; font-size: 24px;">Korean-to-Englis Dubbing</h4>
+https://github.com/user-attachments/assets/49190d80-e281-4332-9446-e328a2fbaefe
 
+
+https://github.com/user-attachments/assets/b669adfc-1e24-4502-8435-f2216f04fc1c
+
+
+
+https://github.com/user-attachments/assets/2cdbe09c-4847-4626-b8e4-70509b539ddd
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; margin-right: 10px; text-align: center; max-width: 45%;">
     <video width="100%" controls>
@@ -159,7 +179,6 @@ Additionally, replace the input files with those matching the correct paths to p
     <video width="100%" controls>
       <source src="./samples/men2_kr_eg.mp4
 
-Uploading women_eg_sample.mp4…
 
 " type="video/mp4">
       Your browser does not support the video tag.
