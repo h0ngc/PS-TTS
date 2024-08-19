@@ -114,17 +114,24 @@ Additionally, replace the input files with those matching the correct paths to p
   </div>
   <div style="flex: 1; text-align: center; max-width: 45%;">
     <video width="100%" controls>
-
-https://github.com/user-attachments/assets/49190d80-e281-4332-9446-e328a2fbaefe
-
-
-https://github.com/user-attachments/assets/b669adfc-1e24-4502-8435-f2216f04fc1c
-
-
-
-https://github.com/user-attachments/assets/2cdbe09c-4847-4626-b8e4-70509b539ddd
-
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/256c258d-14ce-465f-b13c-ecf80302262c" alt="Video 1" width="300"/>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/f6378d7d-788b-482d-b467-4cf9377cbcc0" alt="Video 2" width="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/c4fb507b-4a67-49cf-b025-aaad769108d9" alt="Video 3" width="300"/>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/47ba5ffb-5dbf-404e-9688-c76b28e67fe2" alt="Video 4" width="300"/>
+    </td>
+  </tr>
+</table>
 
       <source src="https://github.com/user-attachments/assets/fa6ea2dc-d4f5-4a54-b529-ee632f2caf3c" type="video/mp4">
       Your browser does not support the video tag.
@@ -145,7 +152,7 @@ https://github.com/user-attachments/assets/2cdbe09c-4847-4626-b8e4-70509b539ddd
     </video>
   </div>
 </div>
-<h4 style="text-align: center; font-size: 24px;">Korean-to-Englis Dubbing</h4>
+<h4 style="text-align: center; font-size: 24px;">Korean-to-English Dubbing</h4>
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; margin-right: 10px; text-align: center; max-width: 45%;">
     <video width="100%" controls>
@@ -171,6 +178,7 @@ https://github.com/user-attachments/assets/2cdbe09c-4847-4626-b8e4-70509b539ddd
     <video width="100%" controls>
       <source src="./samples/men2_kr_eg.mp4
 " type="video/mp4">
+
       Your browser does not support the video tag.
     </video>
   </div>
@@ -189,7 +197,7 @@ https://github.com/user-attachments/assets/2cdbe09c-4847-4626-b8e4-70509b539ddd
       <img src="https://github.com/user-attachments/assets/2cdbe09c-4847-4626-b8e4-70509b539ddd" alt="Video 3" width="300"/>
     </td>
     <td>
-      <!-- You can add another image or keep this cell empty -->
+      <img src="https://github.com/user-attachments/assets/77b77993-2627-41b2-a95d-0d3f05936a7a" alt="Video 4" width="300"/>
     </td>
   </tr>
 </table>
