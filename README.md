@@ -1,7 +1,7 @@
 ## PS-TTS: Phonetic Synchronization in Text-to-Speech for Achieving Natural Automated Dubbing
 
 
-The Pytorch implementation of PS-TTS (AAAI 2025)
+The Pytorch implementation of PS-TTS
 
 
 
