@@ -21,7 +21,6 @@ The Pytorch implementation of PS-TTS
 
 ```
 https://anonymous.4open.science/r/PS-TTS-4907/README.md Please download the repository here
-conda activate ps_tts
 pip install -r requirements
 ``` 
 you need to install `apt-get install espeak` first. <br>
