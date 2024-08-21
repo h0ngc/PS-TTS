@@ -20,7 +20,7 @@ The Pytorch implementation of PS-TTS
 1. Clone this repository and Install python requirement
 
 ```
-https://anonymous.4open.science/r/PS-TTS-4907/README.md Please download the repository here
+Please download the repository here
 pip install -r requirements
 ``` 
 you need to install `apt-get install espeak` first. <br>
