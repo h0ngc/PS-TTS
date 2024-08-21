@@ -20,13 +20,13 @@ The Pytorch implementation of PS-TTS (AAAI 2025)
 1. Clone this repository and Install python requirement
 
 ```
-git lfs clone https://github.com/hayeong0/DDDM-VC.git
+https://anonymous.4open.science/r/PS-TTS-4907/README.md Please download the repository here
 conda activate ps_tts
 pip install -r requirements
 ``` 
 you need to install `apt-get install espeak` first. <br>
 `lfs` is need for download pre-trained baseline TTS model<br><br>
-If you clone the repository using `git clone https://github.com/hayeong0/DDDM-VC.git`<br>
+If you clone the repository without pre-trained TTS model<br>
 pleanse download checkpoint `./ckpts/baseline.pth` separately<br>
 
 ## 📑  Usage
