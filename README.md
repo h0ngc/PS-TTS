@@ -103,7 +103,7 @@ python inference_en_to_kr.py \
 
 Additionally, replace the input files with those matching the correct paths to proceed with PS-TTS.
 
-*FINALLY*  Combine the lip-synchronized target speech with the source video. `bash separate_video.sh <input_video_path> <final_output_speech>`
+*FINALLY*  Combine the lip-synchronized target speech with the source video. `bash combine_video.sh <input_video_path> <final_output_speech>`
 
 ## 🎓 Dubbing Sample with Lip-Reading Datasets
 If you can't see the video, please check the video on the samples folder
