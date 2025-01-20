@@ -136,7 +136,7 @@ If you can't see the video, please check the video on the samples folder
     </video>
   </div>
 </div>
-<table>
+<!-- <table>
   <tr>
     <td>
       <img src="https://github.com/user-attachments/assets/256c258d-14ce-465f-b13c-ecf80302262c" alt="Video 1" width="300"/>
@@ -152,7 +152,7 @@ If you can't see the video, please check the video on the samples folder
     <td>
       <img src="https://github.com/user-attachments/assets/47ba5ffb-5dbf-404e-9688-c76b28e67fe2" alt="Video 4" width="300"/>
     </td>
-  </tr>
+  </tr> -->
 </table>
 <h4 style="text-align: center; font-size: 24px;">Korean-to-English Dubbing</h4>
 <div style="display: flex; justify-content: center;">
