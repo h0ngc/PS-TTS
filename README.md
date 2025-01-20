@@ -36,6 +36,7 @@ pleanse download checkpoint `./ckpts/baseline.pth` separately<br>
 - If you want to separate the source speech from a video in MP4 format, run `bash separate_video.sh <input_video_path> <output_audio_path> <output_video_path>`.<br>
 for example, `bash separate_video.sh ./input_video/input_video_kr.mp4 ./prepare_data/output.wav ./prepare_data/separated_video.mp4`
 - If you are using your own data, use a video without BGM, or separate the BGM using the open-source tool available at `https://github.com/sigsep/open-unmix-pytorch.git`.
+- Extract the gpt_key.zip file and copy the key value from the text file into the OPEN_API_KEY field in config.json.
 
 **When time alignment for the source text is not available:**
 
